@@ -1,0 +1,2 @@
+# ROCK-PAPER-SCISSOR-MINOR-PROJECT-1
+It was my FIRST MINOR project I made !
